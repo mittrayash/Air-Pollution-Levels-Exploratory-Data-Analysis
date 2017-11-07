@@ -18,5 +18,5 @@ These sudden peaks in pollution levels are due to heavy burning of firecrackers 
 
 # Credits
 
-We'd like to thank data.gov.in to provide us with detailed data about the quantity of harmful gases in the air. 
+We'd like to thank data.gov.in to provide us with detailed data about the quantity of harmful gases over different regions in India. 
 
