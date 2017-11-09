@@ -3,6 +3,11 @@
 # Desription
 A research project which attempts to explore the various levels of air pollution across the years 2012-2015. The project attempts to realize how various pollution control schemes introduced in Delhi in the recent years (such as the firecracker ban, odd-even scheme and disallowing the use of vehicles older than 10 years) have had an impact on the air pollution levels of Delhi. Data for more recent years is still in process of collection and it will be incorporated into the project soon. In the subsequent stages, we plan on predicting the air pollution for the following years. 
 
+## UPDATE: Final Plot for data 2012 through 2015
+
+!['Unable to load plot.png'](plot.png)
+
+
 # Technologies Used
   
 - Python
