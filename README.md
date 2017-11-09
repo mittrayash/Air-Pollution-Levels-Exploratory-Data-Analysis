@@ -16,7 +16,7 @@ A research project which attempts to explore the various levels of air pollution
 # Objective
 
 Our project aims to spread awareness among people about the increasing pollution levels in India, especially during the months of October and November.
-These sudden peaks in pollution levels are due to heavy burning of firecrackers to celebrate Diwali. By incorporating data and graphs into the project, we make it easier for people to observe how the burning firecrackers can be menacing to the environment, and henceforth needs to be brought to a hault immediately.
+These sudden peaks in pollution levels are due to heavy burning of firecrackers in order to celebrate Diwali. By incorporating data and graphs into the project, we make it easier for people to observe how the burning of firecrackers can be menacing to the environment, and henceforth needs to be brought to a hault immediately.
 
 # Data Sources
 
